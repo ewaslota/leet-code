@@ -1,8 +1,5 @@
 package easy;
 
-import com.sun.tools.attach.AttachOperationFailedException;
-
-import java.nio.file.NoSuchFileException;
 import java.util.Arrays;
 
 /**
